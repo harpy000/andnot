@@ -1,0 +1,2 @@
+rootProject.name = "WhatsAppVault"
+include ':app'
